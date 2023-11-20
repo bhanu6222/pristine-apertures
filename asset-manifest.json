@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pristine-apertures/static/css/main.e92851e7.css",
+    "main.js": "/pristine-apertures/static/js/main.e2b8d03d.js",
+    "static/js/787.c65084e3.chunk.js": "/pristine-apertures/static/js/787.c65084e3.chunk.js",
+    "static/media/nischal.jpg": "/pristine-apertures/static/media/nischal.c4d8babe112f2d752e78.jpg",
+    "index.html": "/pristine-apertures/index.html",
+    "main.e92851e7.css.map": "/pristine-apertures/static/css/main.e92851e7.css.map",
+    "main.e2b8d03d.js.map": "/pristine-apertures/static/js/main.e2b8d03d.js.map",
+    "787.c65084e3.chunk.js.map": "/pristine-apertures/static/js/787.c65084e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92851e7.css",
+    "static/js/main.e2b8d03d.js"
+  ]
+}
